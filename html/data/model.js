@@ -1,0 +1,1 @@
+var modelInfo = {model:"triplex_12B"};var modelHierarchy=[{model:"triplex_12B",relativePath:"_internal.html",parent:"null"},];var AddCode = true;var ProtectedModel = false;
